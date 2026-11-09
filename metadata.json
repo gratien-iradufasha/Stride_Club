@@ -1,0 +1,6 @@
+{
+  "name": "Stride Club - Running Community & Group Runs",
+  "description": "Connect with fellow runners, discover upcoming club runs, pace groups, and organize weekend long runs with real-time Cloud SQL persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
